@@ -18,14 +18,14 @@ so if you would like to train it, follow these steps:
 - remove commented out code from below # 4 and before # 5
 - comment out # 3.5 Code
 - Inside the Code....
-    DATA_DIR = ""
-    #place the ABSOLUTE path of the batch folder inside of data_dir
-  (MAKE SURE THAT the folder itself has this structure:
-  NAMEOFYOURfolder ->
-  train -> NORMAL,PNEUMONIA
-  val -> NORMAL, PNEUMONIA
+DATA_DIR = ""
+#place the ABSOLUTE path of the batch folder inside of data_dir
+(MAKE SURE THAT the folder itself has this structure:
+NAMEOFYOURfolder ->
+train -> NORMAL,PNEUMONIA
+val -> NORMAL, PNEUMONIA
   
-  )
+)
 where normal is xray pictures of normal xrays
 where pneumonia is xray pictures of pneumonia xrays
 where val is folder to validate predictions and adjust weights respectively.

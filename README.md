@@ -10,7 +10,7 @@ OR
 
 It can be used to detect an xray image
 
-This app was already trained. The folder of model\xray_model.pth contains the training data.
+This app was already trained. The folder of model2\xray_model.pth (The Link) contains the training data.
 
 This model can be trained and evaluated.
 However, its commented out.

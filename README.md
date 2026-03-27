@@ -38,7 +38,7 @@ Where val is folder to validate predictions and check if its doing good or not.
 Install requirements.txt and run it.
 
 
-## TO RUN THE BATCH FOLDER.
+## TO RUN THE APP ON A BATCH FOLDER.
 follow these steps:
 - Comment out everything below "7.2 Run prediciton App"
 - UNCOMMENT Everything Below "7.1 Run prediction batch folder" but BEFORE "7.2 Run prediciton App"

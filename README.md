@@ -33,6 +33,7 @@ where val is folder to validate predictions and adjust weights respectively.
 TO RUN THE APP:
 Install requirements.txt and run it.
 
+
 TO RUN THE BATCH FOLDER.
 follow these steps:
 - Comment out everything below "7.2 Run prediciton App"

@@ -17,7 +17,8 @@ However, its commented out.
 so if you would like to train it, follow these steps:
 - remove commented out code from below # 4 and before # 5
 - comment out # 3.5 Code
-- Inside the Code....
+- vvvv
+& Inside the Code....
 DATA_DIR = ""
 #place the ABSOLUTE path of the batch folder inside of data_dir
 (MAKE SURE THAT the folder itself has this structure:

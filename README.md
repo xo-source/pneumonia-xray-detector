@@ -21,14 +21,14 @@ so if you would like to train it, follow these steps:
     DATA_DIR = ""
     #place the ABSOLUTE path of the batch folder inside of data_dir
   (MAKE SURE THAT the folder itself has this structure:
-  folder -
-         | - train -
-                   | - NORMAL
-                   | - PNEUMONIA
+  NAMEOFYOURfolder ->
+  train -> NORMAL,PNEUMONIA
+  val -> NORMAL, PNEUMONIA
+  
   )
-    where normal is xray pictures of normal xrays
-    where pneumonia is xray pictures of pneumonia xrays
-
+where normal is xray pictures of normal xrays
+where pneumonia is xray pictures of pneumonia xrays
+where val is folder to validate predictions and adjust weights respectively.
 
 TO RUN THE APP:
 Install requirements.txt and run it.

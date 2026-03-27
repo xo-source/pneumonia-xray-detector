@@ -35,7 +35,10 @@ Where val is folder to validate predictions and check if its doing good or not.
 ----------------------------------------------------------
 
 ## TO RUN THE APP:
-Install requirements.txt and run it.
+
+- Install This Xray Trained Model: https://drive.google.com/file/d/1pTYaPE8yO_rNHg-cjC_d-kkyFaSQWfBp/view?usp=drive_link
+
+- Install requirements.txt and run it.
 
 
 ## TO RUN THE APP ON A BATCH FOLDER.

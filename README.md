@@ -52,7 +52,7 @@ Disclaimer
 
 This app is for educational purposes only.
 It cannot replace professional medical evaluation.
-
+Commercial use is not allowed.
 
 
 
